@@ -1,4 +1,4 @@
-# ETHIndia Embark competition - August 10-12th, 2018
+# ETHIndia Hackathon code implementation on Ethereum blockchain
 
 
 ### Known issues with this dApp
