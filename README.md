@@ -1,6 +1,6 @@
 # ETHIndia Hackathon code implementation on Ethereum blockchain
 
-
+#August 10-12, 2018
 ### Known issues with this dApp
 ##### Issues on localhost
 1. Create account - hangs with metamask 
